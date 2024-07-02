@@ -1256,6 +1256,9 @@ vendor/lib64/vendor.qti.hardware.trustedui@1.1.so
 vendor/lib64/vendor.qti.hardware.trustedui@1.2.so
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so
 
+# VNDK - from U QPR2
+-vendor/apex/com.android.vndk.current.on_vendor.apex|ed7dd01afa1504af8cf5f66e532a9b12b06ae194
+
 # VPP
 vendor/bin/hw/qconfigservice
 vendor/bin/vppservice
